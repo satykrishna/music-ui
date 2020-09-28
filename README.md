@@ -1,5 +1,27 @@
 # ValidusMusicUi
 
+
+Here are the instructions on how to run this project.
+
+1. Make sure you clone the project https://github.com/validusrecruitment/ui and bring up music service by following instructions provided
+
+2. Once #1 is completed.
+
+This project can be run using just angular command. ng serve. if you execute the command use http://localhost:4200 to access UI
+
+if you have docker installed. then bring up app by using docker-compose up then use http://localhost:8080 to access UI
+
+
+
+
+
+
+
+
+
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
 ## Development server
