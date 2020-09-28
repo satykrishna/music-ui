@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  validus-music-ui:
+    build: .
+    ports:
+      - 8080:8080
